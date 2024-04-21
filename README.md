@@ -12,5 +12,6 @@ I am also taking a course along with the challenge to not get lost while learnin
 The following are the three reasons that prompted me to take up the course(as well as the challenge)
 * I have a deadline<br> - I have a set of tasks i.e. 100 challenges for 100 days <br>that I must complete before the 100 day ends
 * I have a curriculum<br> - I wouldn't get lost in the tutorial hell just watching about the same beginner tutorial again and again
-* Projects and Hands on Programming<br> - The course is filled with interactive exercises and projects and I will not end up doing nothing.
+* Projects and Hands on Programming<br> - The course is filled with interactive exercises and projects and I will not end up doing nothing.<br><br><br>
+I decided to document my journey through the 100 days!!!
 
